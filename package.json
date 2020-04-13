@@ -1,0 +1,24 @@
+{
+  "name": "@react-native-hero/badge",
+  "version": "0.0.1",
+  "description": "react native badge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-hero/badge.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "badge"
+  ],
+  "author": "musicode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/react-native-hero/badge/issues"
+  },
+  "homepage": "https://github.com/react-native-hero/badge#readme"
+}
